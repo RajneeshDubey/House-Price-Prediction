@@ -58,7 +58,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression
 
 -	Lasso has successfully reduced variables by shrinking the variable coefficient to 0.There are 134 variables selected by lasso regression out of 255 variables.
 
--From the output of both models, it is evident that Lasso does feature selection and its output is much simpler than Ridge’s, without any compromise in the accuracy over the test data. So, we should go with the lasso regression, in this case.
+- From the output of both models, it is evident that Lasso does feature selection and its output is much simpler than Ridge’s, without any compromise in the accuracy over the test data. So, we should go with the lasso regression, in this case.
       
 
 
